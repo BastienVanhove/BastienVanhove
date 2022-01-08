@@ -15,7 +15,7 @@
 <h2 align="center">Libs/Frameworks</h2>
 <div style="flex" align="center">
     <img height="70px" src="image/node.png">
-    <img height="70px" src="image/vue.png">
+    <img height="70px" style="margin-left: 20px" src="image/vue.png">
     <img height="70px" src="image/sass.png">
 </div>
 <h6 align="center">Node.js / Vue.js / Sass / Three.js</h6>
