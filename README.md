@@ -3,9 +3,10 @@
 <h1 align="center">Hi, I'm Bastien</h1>
 <h1 align="center" >Web Developer</h1>
 
+<h2 align="center">Languages</h2>
+
 <h6 align="center">I'm in love with philosophy but don't tell anyone</h6>
 
-<h2 align="center">Languages</h2>
 <div style="flex" align="center">
     <img height="70px" src="image/web.png">
     <img height="70px" src="image/ts.jpg">
