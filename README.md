@@ -2,11 +2,10 @@
 
 <h2 align="center">Languages</h2>
 <div style="flex" align="center">
-    <img width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png">
-    <img width="70px" src="image/css.png">
-    <img width="70px" src="image/javaScript-logo.jpg">
-    <img width="70px" src="image/ts.jpg">
-    <img width="70px" src="image/ts.jpg">
+    <img width="70px" src="image/html.svg">
+    <img width="70px" src="image/css.svg">
+    <img width="70px" src="image/js.svg">
+    <img width="70px" src="image/ts.svg">
 </div>
 
 <h2 align="center">Lib/Framework</h2>
