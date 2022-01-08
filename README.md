@@ -1,6 +1,7 @@
 ### Hi there 👋
 ## from bastien
 
+<p style="color: blue;">test HTML in readme</p>
 <!--
 **BastienVanhove/BastienVanhove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
