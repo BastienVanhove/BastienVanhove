@@ -4,10 +4,8 @@
 
 <h2 align="center">Languages</h2>
 <div style="flex" align="center">
-    <img width="70px" src="image/html.png">
-    <img width="70px" src="image/css.png">
-    <img width="70px" src="image/js.svg">
-    <img width="70px" src="image/ts.svg">
+    <img height="70px" src="image/web.png">
+    <img height="70px" src="image/ts.svg">
 </div>
 <h6 align="center">HTML / CSS / javaScript / TypeScript</h6>
 
@@ -21,12 +19,11 @@
 
 <h2 align="center">Tools</h2>
 <div style="flex" align="center">
-    <img width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png">
     <img width="70px" src="image/git.png">
     <img width="70px" src="image/GitHub.png">
     <img width="70px" src="image/ts.jpg">
     <img width="70px" src="image/ts.jpg">
-</div>
+</div>az
 <h6 align="center">Git / GitHub / Figma / Vs-code</h6>
 
 <h2 align="center">Front-end</h2>
