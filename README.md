@@ -2,6 +2,7 @@
 ## from bastien
 
 <p style="color: blue;">test HTML in readme</p>
+<a href="page1.md">Test link</a>
 <!--
 **BastienVanhove/BastienVanhove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
