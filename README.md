@@ -1,9 +1,9 @@
 <img style="width: 100%; margin:0; padding: 0" src="image/back.jpg">
 
-<h1 style="text-align: center">My Profile</h1>
+<h1 align="center">My Profile</h1>
 
 <h2>Languages</h2>
-<div style="flex">
+<div style="flex" align="center">
     <img width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png">
     <img width="70px" src="image/css.png">
     <img width="70px" src="image/javaScript-logo.jpg">
@@ -12,7 +12,7 @@
 </div>
 
 <h2>Lib/Framework</h2>
-<div style="flex">
+<div style="flex" align="center">
     <img width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png">
     <img width="70px" src="image/css.png">
     <img width="70px" src="image/javaScript-logo.jpg">
