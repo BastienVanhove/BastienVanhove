@@ -1,4 +1,4 @@
-<img style="width: 100%; margin:0; padding: 0" src="image/back.jpg">
+<img style="width: 100%; margin:0; padding: 0" src="image/banniere.jpg">
 
 <h1 align="center">Hi, I'm Bastien</h1>
 <h6 align="center">I'm in love with philosophy but don't tell anyone.</h6>
@@ -15,7 +15,7 @@
 <h2 align="center">Libs/Frameworks</h2>
 <div style="flex" align="center">
     <img height="70px" src="image/node.png">
-    <img height="70px" style="margin-left: 20px" src="image/vue.png">
+    <img height="70px" src="image/vue.png">
     <img height="70px" src="image/sass.png">
 </div>
 <h6 align="center">Node.js / Vue.js / Sass / Three.js</h6>
