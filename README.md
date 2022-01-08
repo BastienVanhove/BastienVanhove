@@ -1,3 +1,4 @@
+<img src="image/back.jpg">
 ### Hi x, I'm Bastien 👋
 <h2>Languages</h2>
 <div style="flex">
@@ -18,11 +19,11 @@
 
 
 #### I'm currently learning.. :runner:
-    Deep learning with tensorflow.js
-    Smarts Contracts
-    Mathematics
+    .Deep learning with tensorflow.js
+    .Smarts Contracts
+    .Mathematics
 
 #### Contact me 💬
     bastienv.capital@gmail.com
 
-###### J’aime celui qui a honte de voir le dé tomber en sa faveur et qui demande alors : suis-je donc un faux joueur ? 
+###### J’aime celui qui a honte de voir le dé tomber en sa faveur et qui demande alors : suis-je donc un faux joueur ? car il veut son déclin
