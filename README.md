@@ -47,9 +47,4 @@
 #### E-mails :question:
     bastienv.capital@gmail.com
 
-#### Contact me 💬
-    Instagram
-    Linkedin
-    Discord
-
 ###### J’aime celui qui a honte de voir le dé tomber en sa faveur et qui demande alors : suis-je donc un faux joueur ? car il veut son déclin.
