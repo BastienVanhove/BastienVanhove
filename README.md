@@ -1,6 +1,6 @@
 <img style="width: 100%; margin:0; padding: 0" src="image/back.jpg">
 
-<h1>Hi I'm web developer :satellite:</h1>
+<h1 align="center">:point_right: Bastien, Web Developer :point_left:</h1>
 
 <h2 align="center">Languages</h2>
 <div style="flex" align="center">
