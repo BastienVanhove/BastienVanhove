@@ -4,8 +4,8 @@
 
 <h2 align="center">Languages</h2>
 <div style="flex" align="center">
-    <img width="70px" src="image/html.svg">
-    <img width="70px" src="image/css.svg">
+    <img width="70px" src="image/html.png">
+    <img width="70px" src="image/css.png">
     <img width="70px" src="image/js.svg">
     <img width="70px" src="image/ts.svg">
 </div>
@@ -22,17 +22,17 @@
 <h2 align="center">Tools</h2>
 <div style="flex" align="center">
     <img width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png">
-    <img width="70px" src="image/css.png">
-    <img width="70px" src="image/javaScript-logo.jpg">
+    <img width="70px" src="image/git.png">
+    <img width="70px" src="image/GitHub.png">
     <img width="70px" src="image/ts.jpg">
     <img width="70px" src="image/ts.jpg">
 </div>
 <h6 align="center">Git / GitHub / Figma / Vs-code</h6>
 
 <h2 align="center">Front-end</h2>
-<h6 align="center">Vue js</h6>
+<h6 align="center">VUE JS</h6>
 
-<h2 align="center">VUE JS</h2>
+<h2 align="center">Back-end</h2>
 <h6 align="center">Coming Soon... </h6>
 
 #### I'm currently learning.. (in order) :runner:
