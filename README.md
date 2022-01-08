@@ -1,6 +1,9 @@
 <img style="width: 100%; margin:0; padding: 0" src="image/back.jpg">
 
-<h1 align="center">Bastien, Web Developer</h1>
+<h1 align="center">Hi, I'm Bastien</h1>
+<h4 align="center" >Web Developer</h4>
+
+###### Im in love with philosophy but don't say it to anyone 
 
 <h2 align="center">Languages</h2>
 <div style="flex" align="center">
