@@ -9,7 +9,7 @@
 </div>
 <h6 align="center">HTML / CSS / javaScript / TypeScript</h6>
 
-<h2 align="center">Lib/Framework</h2>
+<h2 align="center">Libs/Frameworks</h2>
 <div style="flex" align="center">
     <img height="70px" src="image/node.png">
     <img height="70px" src="image/vue.png">
