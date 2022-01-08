@@ -1,7 +1,4 @@
 ### Hi x, I'm Bastien 👋
-
-###### Technologies
-
 <h2>Languages</h2>
 <div style="flex">
     <img width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png">
@@ -27,3 +24,5 @@
 
 #### Contact me 💬
     bastienv.capital@gmail.com
+
+###### J’aime celui qui a honte de voir le dé tomber en sa faveur et qui demande alors : suis-je donc un faux joueur ? 
