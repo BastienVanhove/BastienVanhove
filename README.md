@@ -50,4 +50,4 @@ link coming soon
 #### online Bio :book:
 link coming soon
 
-###### J’aime celui qui a honte de voir le dé tomber en sa faveur et qui demande alors : suis-je donc un faux joueur ? car il veut son déclin.
+###### J’aime celui qui a honte de voir le :dice: tomber en sa faveur et qui demande alors : suis-je donc un faux joueur ? car il veut son déclin.
