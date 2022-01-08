@@ -28,11 +28,17 @@
 </div>
 <h6 align="center">Git / GitHub / Figma / Vs-code</h6>
 
-#### I'm currently learning.. :runner:
+<h2 align="center">Front-end</h2>
+<h6 align="center">Vue js</h6>
+
+<h2 align="center">Back-end</h2>
+<h6 align="center">Coming Soon... </h6>
+
+#### I'm currently learning.. (in order) :runner:
     .API Backend
-    .Deep learning with tensorflow.js
     .Smarts Contracts
-    .Mathematics
+    .Deep learning with tensorflow.js
+    .Advanced Mathematics
 
 #### online CV
     https://etc/etc
