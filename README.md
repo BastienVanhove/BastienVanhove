@@ -1,6 +1,6 @@
-<img src="image/back.jpg">
+<img style="width: 100%; margin:0; padding: 0" src="image/back.jpg">
 
-# Welcome to my profile :watch:
+<h1 style="text-align: center">My Profile</h1>
 
 <h2>Languages</h2>
 <div style="flex">
