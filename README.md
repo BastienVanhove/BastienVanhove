@@ -38,13 +38,13 @@
     .Deep learning with tensorflow.js
     .Advanced Mathematics
 
+#### E-mails :question:
+    bastienv.capital@gmail.com
+
 #### online CV :pencil:
 link coming soon
 
 #### online Bio :book:
 link coming soon
-
-#### E-mails :question:
-    bastienv.capital@gmail.com
 
 ###### J’aime celui qui a honte de voir le dé tomber en sa faveur et qui demande alors : suis-je donc un faux joueur ? car il veut son déclin.
