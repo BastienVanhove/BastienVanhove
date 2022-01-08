@@ -1,5 +1,7 @@
 <img style="width: 100%; margin:0; padding: 0" src="image/back.jpg">
 
+<h1>Hi I'm web developer :satellite:</h1>
+
 <h2 align="center">Languages</h2>
 <div style="flex" align="center">
     <img width="70px" src="image/html.svg">
@@ -8,7 +10,6 @@
     <img width="70px" src="image/ts.svg">
 </div>
 <h6 align="center">HTML / CSS / javaScript / TypeScript</h6>
-
 
 <h2 align="center">Lib/Framework</h2>
 <div style="flex" align="center">
@@ -31,7 +32,7 @@
 <h2 align="center">Front-end</h2>
 <h6 align="center">Vue js</h6>
 
-<h2 align="center">Back-end</h2>
+<h2 align="center">VUE JS</h2>
 <h6 align="center">Coming Soon... </h6>
 
 #### I'm currently learning.. (in order) :runner:
@@ -43,7 +44,7 @@
 #### online CV
     https://etc/etc
 
-#### E-mails 💬
+#### E-mails :question:
     bastienv.capital@gmail.com
 
 #### Contact me 💬
