@@ -41,7 +41,10 @@
     .Deep learning with tensorflow.js
     .Advanced Mathematics
 
-#### online CV
+#### online CV :pencil:
+    https://etc/etc
+
+#### online Bio :book:
     https://etc/etc
 
 #### E-mails :question:
