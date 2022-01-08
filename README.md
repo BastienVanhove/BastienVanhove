@@ -7,6 +7,7 @@
     <img width="70px" src="image/js.svg">
     <img width="70px" src="image/ts.svg">
 </div>
+    HTML / CSS / javaScript / TypeScript
 
 <h2 align="center">Lib/Framework</h2>
 <div style="flex" align="center">
