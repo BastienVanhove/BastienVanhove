@@ -7,11 +7,12 @@ Hey, welcome to my realms!
 
 <h6 align="center">I'm in love with philosophy but don't tell anyone.</h6>
 
-<div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BastienVanhove&show_icons=true&theme=tokyonight) 
-
-</div>
+<a href="https://github.com/BastienVanhove">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BastienVanhove&theme=material-palenight&langs_count=3" />
+</a>
+<a href="https://github.com/BastienVanhove">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BastienVanhove&show_icons=true&theme=material-palenight&line_height=27" alt="NONE's GitHub Stats" />
+</a>
 
 <h2 align="center">Languages</h2>
 
