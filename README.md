@@ -7,9 +7,7 @@ Hey, welcome to my realms!
 
 <h6 align="center">I'm in love with philosophy but don't tell anyone.</h6>
 
-<h2 align="center">GitHub Trophy :trophy:</h2>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BastienVanhove&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BastienVanhove&show_icons=true&theme=tokyonight) 
 
 <h2 align="center">Languages</h2>
 
