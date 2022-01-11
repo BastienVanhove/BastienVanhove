@@ -1,11 +1,11 @@
 <img style="width: 100%; margin:0; padding: 0" src="image/banniere.jpg">
 
-<h1 align="center">Hey You</h1>
+<h1 align="center">Hi, welcome to my realms :fire:</h1>
 <h6 align="center">I'm in love with philosophy but don't tell anyone.</h6>
 
 <h2 align="center">GitHub Trophy :trophy:</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BastienVanhove&theme=onedark&align=center)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BastienVanhove&theme=onedark&layout=compact)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h2 align="center">Languages</h2>
 
@@ -47,10 +47,10 @@
 #### E-mails :question:
     bastienv.capital@gmail.com
 
-#### online CV :pencil:
+#### Online-CV :pencil:
 link coming soon
 
-#### online Bio :book:
+#### Online-Biography :book:
 link coming soon
 
 ###### J’aime celui qui a honte de voir le dé tomber en sa faveur et qui demande alors : suis-je donc un faux joueur ? car il veut son déclin.
