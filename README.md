@@ -1,13 +1,13 @@
 <img style="width: 100%; margin:0; padding: 0" src="image/banniere.jpg">
 
-<h1 align="center">Hey, I'm Bastien</h1>
+<h1 align="center">Hey You</h1>
 <h6 align="center">I'm in love with philosophy but don't tell anyone.</h6>
 
-<div align="center">
 
-    [![trophy](https://github-profile-trophy.vercel.app/?username=BastienVanhove&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+## GitHub Trophy :trophy:
 
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=BastienVanhove&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 <h2 align="center">Languages</h2>
