@@ -9,7 +9,7 @@ Hey, welcome to my realms!
 
 <h2 align="center">GitHub Trophy :trophy:</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BastienVanhove&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BastienVanhove&show_icons=true&theme=tokyonight)
 
 <h2 align="center">Languages</h2>
 
