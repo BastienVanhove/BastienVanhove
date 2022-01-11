@@ -5,10 +5,10 @@ Hey, welcome to my realms!
 
 <h6 align="center">I'm in love with philosophy but don't tell anyone... :pill:</h6>
 
-<a href="https://github.com/BastienVanhove">
+<a href="https://github.com/BastienVanhove?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BastienVanhove&theme=material-palenight&langs_count=3" />
 </a>
-<a href="https://github.com/BastienVanhove">
+<a href="https://github.com/BastienVanhove?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=BastienVanhove&show_icons=true&theme=material-palenight&line_height=27" alt="NONE's GitHub Stats" />
 </a>
 
