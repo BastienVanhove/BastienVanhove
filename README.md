@@ -41,7 +41,7 @@ HTML / CSS / javaScript / TypeScript / Python
 <h6 align="center">Git / GitHub / Figma / Vs-code / Yarn / npm</h6>
 
 <h2 align="center">Front-end</h2>
-<h6 align="center">VUE JS</h6>
+<h6 align="center">VUE JS or VANILLA</h6>
 
 <h2 align="center">Back-end</h2>
 <h6 align="center">Coming Soon... </h6>
