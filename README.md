@@ -3,8 +3,10 @@
 <h1 align="center">Hey, I'm Bastien</h1>
 <h6 align="center">I'm in love with philosophy but don't tell anyone.</h6>
 
-<h2 align="center">Languages</h2>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+<h2 align="center">Languages</h2>
 
 <div style="flex" align="center">
     <img height="70px" src="image/web.png">
