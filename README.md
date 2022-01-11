@@ -1,8 +1,3 @@
-<h1 align="center">
-Hey, welcome to my realms!
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-</h1>
-
 <h6 align="center">I'm in love with philosophy but don't tell anyone... :pill:</h6>
 
 <a href="https://github.com/BastienVanhove?tab=repositories">
