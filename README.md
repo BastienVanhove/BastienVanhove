@@ -9,7 +9,7 @@ Hi, welcome to my realms!
 
 <h2 align="center">GitHub Trophy :trophy:</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BastienVanhove&theme=onedark&layout=compact)](https://github.com/ryo-ma/github-profile-trophy)
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<BastienVanhove>&theme=<THEME_NAME>" />
 
 <h2 align="center">Languages</h2>
 
