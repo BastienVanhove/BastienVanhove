@@ -1,7 +1,7 @@
 <img style="width: 100%; margin:0; padding: 0" src="image/banniere.jpg">
 
 <h1 align="center">
-Hi, welcome to my realms!
+Hey, welcome to my realms!
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
 
@@ -9,7 +9,7 @@ Hi, welcome to my realms!
 
 <h2 align="center">GitHub Trophy :trophy:</h2>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<BastienVanhove>&theme=<THEME_NAME>" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BastienVanhove&show_icons=true&theme=radical)
 
 <h2 align="center">Languages</h2>
 
