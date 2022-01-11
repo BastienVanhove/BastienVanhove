@@ -26,7 +26,7 @@
     <img height="70px" src="image/GitHub.png">
     <img height="70px" src="image/figma.png">
     <img height="70px" src="image/vsCode.png">
-</div>az
+</div>
 <h6 align="center">Git / GitHub / Figma / Vs-code / Yarn / npm</h6>
 
 <h2 align="center">Front-end</h2>
