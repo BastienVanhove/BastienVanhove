@@ -8,10 +8,10 @@ Hey, welcome to my realms!
 <h6 align="center">I'm in love with philosophy but don't tell anyone.</h6>
 
 <a href="https://github.com/BastienVanhove">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BastienVanhove&theme=material-tokyonight&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BastienVanhove&theme=material-palenight&langs_count=3" />
 </a>
 <a href="https://github.com/BastienVanhove">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BastienVanhove&show_icons=true&theme=material-tokyonight&line_height=27" alt="NONE's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BastienVanhove&show_icons=true&theme=material-palenight&line_height=27" alt="NONE's GitHub Stats" />
 </a>
 
 <h2 align="center">Languages</h2>
