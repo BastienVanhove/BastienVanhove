@@ -7,7 +7,11 @@ Hey, welcome to my realms!
 
 <h6 align="center">I'm in love with philosophy but don't tell anyone.</h6>
 
+<div align="center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BastienVanhove&show_icons=true&theme=tokyonight) 
+
+</div>
 
 <h2 align="center">Languages</h2>
 
