@@ -3,12 +3,9 @@
 <h1 align="center">Hey You</h1>
 <h6 align="center">I'm in love with philosophy but don't tell anyone.</h6>
 
+<h2 align="center">GitHub Trophy :trophy:</h2>
 
-## GitHub Trophy :trophy:
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=BastienVanhove&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=BastienVanhove&theme=onedark&align=center)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h2 align="center">Languages</h2>
 
