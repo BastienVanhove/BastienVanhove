@@ -5,7 +5,7 @@ Hey, welcome to my realms!
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
 
-<h6 align="center">I'm in love with philosophy but don't tell anyone.</h6>
+<h6 align="center">I'm in love with philosophy but don't tell anyone. :pill:</h6>
 
 <a href="https://github.com/BastienVanhove">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BastienVanhove&theme=material-palenight&langs_count=3" />
@@ -20,7 +20,9 @@ Hey, welcome to my realms!
     <img height="70px" src="image/web.png">
     <img height="60px" src="image/ts.jpg">
 </div>
-<h6 align="center">HTML / CSS / javaScript / TypeScript</h6>
+<h6 align="center">
+HTML / CSS / javaScript / TypeScript / Python
+</h6>
 
 <h2 align="center">Libs/Frameworks</h2>
 <div style="flex" align="center">
