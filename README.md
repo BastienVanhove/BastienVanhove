@@ -1,6 +1,9 @@
 <img style="width: 100%; margin:0; padding: 0" src="image/banniere.jpg">
 
-<h1 align="center">Hi, welcome to my realms!</h1> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center">
+Hi, welcome to my realms!
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h1>
 
 <h6 align="center">I'm in love with philosophy but don't tell anyone.</h6>
 
