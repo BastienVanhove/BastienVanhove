@@ -1,5 +1,3 @@
-<img style="width: 100%; margin:0; padding: 0" src="image/banniere1.jpg">
-
 <h1 align="center">
 Hey, welcome to my realms!
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
