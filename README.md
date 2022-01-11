@@ -3,7 +3,11 @@
 <h1 align="center">Hey, I'm Bastien</h1>
 <h6 align="center">I'm in love with philosophy but don't tell anyone.</h6>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BastienVanhove&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+
+    [![trophy](https://github-profile-trophy.vercel.app/?username=BastienVanhove&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 
 <h2 align="center">Languages</h2>
