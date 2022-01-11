@@ -8,7 +8,7 @@
 
 <div style="flex" align="center">
     <img height="70px" src="image/web.png">
-    <img height="70px" src="image/ts.jpg">
+    <img height="60px" src="image/ts.jpg">
 </div>
 <h6 align="center">HTML / CSS / javaScript / TypeScript</h6>
 
