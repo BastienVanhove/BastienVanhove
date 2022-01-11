@@ -1,4 +1,4 @@
-<img style="width: 100%; margin:0; padding: 0" src="image/banniere.png">
+<img style="width: 100%; margin:0; padding: 0" src="image/banniere.jpg">
 
 <h1 align="center">
 Hey, welcome to my realms!
