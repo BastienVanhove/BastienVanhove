@@ -3,7 +3,7 @@
 <a href="https://github.com/BastienVanhove?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BastienVanhove&theme=radical&langs_count=5" />
 </a>
-<a href="https://github.com/BastienVanhove?tab=repositories">
+<a style="margin-left: 15px" href="https://github.com/BastienVanhove?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=BastienVanhove&show_icons=true&theme=radical&line_height=27" alt="NONE's GitHub Stats" />
 </a>
 
