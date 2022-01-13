@@ -1,10 +1,10 @@
 <h6 align="center">I'm in love with philosophy but don't tell anyone... :pill:</h6>
 
 <a href="https://github.com/BastienVanhove?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BastienVanhove&theme=material-dark&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BastienVanhove&theme=radical&langs_count=5" />
 </a>
 <a href="https://github.com/BastienVanhove?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BastienVanhove&show_icons=true&theme=material-dark&line_height=27" alt="NONE's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BastienVanhove&show_icons=true&theme=radical&line_height=27" alt="NONE's GitHub Stats" />
 </a>
 
 <h2 align="center">Languages</h2>
