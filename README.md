@@ -18,42 +18,20 @@
 HTML / CSS / javaScript / TypeScript / Python
 </h6>
 
-<h2 align="center">Libs/Frameworks</h2>
+<h2 align="center">Libs/Frameworks/Tools</h2>
 <div style="flex" align="center">
     <img height="70px" src="image/node.png">
     <img height="70px" src="image/vue.png">
     <img height="70px" src="image/sass.png">
-</div>
-<h6 align="center">Node.js / Vue.js / Sass / Three.js</h6>
-
-<h2 align="center">Tools</h2>
-<div style="flex" align="center">
     <img height="70px" src="image/git.png">
     <img height="70px" src="image/GitHub.png">
     <img height="70px" src="image/figma.png">
     <img height="70px" src="image/vsCode.png">
 </div>
-<h6 align="center">Git / GitHub / Figma / Vs-code / Yarn / npm</h6>
-
-<h2 align="center">Front-end</h2>
-<h6 align="center">VUE JS or VANILLA</h6>
-
-<h2 align="center">Back-end</h2>
-<h6 align="center">Coming Soon... </h6>
-
-#### I'm currently learning.. (in order) :runner:
-    .API Backend
-    .Smarts Contracts
-    .Deep learning with tensorflow.js
-    .Advanced Mathematics
+<h6 align="center">Node.js / Vue.js / Sass / Three.js / Git / GitHub / Figma / Vs-code / Yarn / npm</h6>
 
 #### E-mails :question:
     bastienv.capital@gmail.com
 
-#### Online-CV :pencil:
-link coming soon
-
-#### Online-Biography :book:
-link coming soon
 
 ###### J’aime celui qui a honte de voir le dé tomber en sa faveur et qui demande alors : suis-je donc un faux joueur ? car il veut son déclin.
