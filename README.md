@@ -3,9 +3,6 @@
 <a href="https://github.com/BastienVanhove?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BastienVanhove&theme=tokyonight&langs_count=5" />
 </a>
-<a style="margin-left: 15px" href="https://github.com/BastienVanhove?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BastienVanhove&show_icons=true&theme=tokyonight&line_height=27" alt="NONE's GitHub Stats" />
-</a>
 
 <a align="center" href='https://github.com/BastienVanhove/Portfolio'>Go Check My Portfolio! (click here)</a>
 
