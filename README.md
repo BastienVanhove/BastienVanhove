@@ -1,6 +1,6 @@
 <h6 align="center">I'm in love with philosophy but don't tell anyone... :pill:</h6>
 
-<a href="https://github.com/BastienVanhove?tab=repositories">
+<a align="center" href="https://github.com/BastienVanhove?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BastienVanhove&theme=tokyonight&langs_count=5" />
 </a>
 
